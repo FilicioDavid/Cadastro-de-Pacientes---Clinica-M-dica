@@ -1,3 +1,0 @@
-C:/Users/Projetos/Banco-De-Dados/arvorebinaria/cmake-build-debug/CMakeFiles/arvorebinaria.dir
-C:/Users/Projetos/Banco-De-Dados/arvorebinaria/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Projetos/Banco-De-Dados/arvorebinaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
