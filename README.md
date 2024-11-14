@@ -1,1 +1,7 @@
-Projeto final para disciplina de Estrutura de dados
+Projeto final desenvolviddo para disciplina de Estrutura de dados
+Desenvolvido por:
+Fernando Campos
+Fernando Gimenes
+Filicio David
+Rafael Francisco
+Vinicius Cunha
