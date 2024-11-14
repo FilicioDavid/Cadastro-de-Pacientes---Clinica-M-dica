@@ -1,4 +1,4 @@
-Projeto final desenvolviddo para disciplina de Estrutura de dados
+Projeto final desenvolvido para disciplina de Estrutura de dados
 Desenvolvido por:
 Fernando Campos
 Fernando Gimenes
